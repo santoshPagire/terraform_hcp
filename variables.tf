@@ -1,6 +1,6 @@
 variable "ARM_SUBSCRIPTION_ID" {
   type = string
-  # default = "664b6097-19f2-42a3-be95-a4a6b4069f6b"
+   default = "664b6097-19f2-42a3-be95-a4a6b4069f6b"
 }
 
 variable "ARM_TENANT_ID" {
