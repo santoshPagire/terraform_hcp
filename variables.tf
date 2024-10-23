@@ -4,6 +4,6 @@ variable "ARM_SUBSCRIPTION_ID" {
 }
 
 variable "ARM_TENANT_ID" {
-    # default = "0adb040b-ca22-4ca6-9447-ab7b049a22ff"
+    default = "0adb040b-ca22-4ca6-9447-ab7b049a22ff"
   
 }
